@@ -8,4 +8,4 @@
 - Click on "Load unpacked" button
 - Provide the path to the downloaded folder
 
-* Note: Ensure the extension is enable*
+* Note: Ensure the extension is enabled*
